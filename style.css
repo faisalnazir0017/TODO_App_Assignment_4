@@ -9,10 +9,7 @@
 .redBorder{
     border: red 2px solid;
 }
-td{
-    font-weight: 200;
-    text-transform:capitalize;
-}
+
 .edit-btn{
     background-color: green !important;
 }
